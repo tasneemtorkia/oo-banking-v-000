@@ -16,6 +16,8 @@ class Transfer
     if valid? 
   end 
   
+
+  
   def reverse_transfer 
   end 
   
